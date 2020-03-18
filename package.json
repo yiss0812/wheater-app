@@ -1,0 +1,23 @@
+{
+  "name": "wheater-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yiss0812/wheater-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yiss0812/wheater-app/issues"
+  },
+  "homepage": "https://github.com/yiss0812/wheater-app#readme",
+  "dependencies": {
+    "ajax": "0.0.4"
+  }
+}
